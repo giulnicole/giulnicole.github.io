@@ -1,56 +1,193 @@
 ---
-title: "Hello R Markdown"
-author: "Frida Gomam"
-date: 2020-12-01T21:13:14-05:00
+title: "New releases"
+author: "Giulia Nicole Baldrighi"
+date: 2024-01-21T21:13:14-05:00
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 ---
 
 
 
-# R Markdown
+# What's new in January 2024?
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+This highlight contains a new poem and pictures from the last trip in USA. 
 
-You can embed an R code chunk like this:
-
-
-```r
-summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit <- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932
-```
-
-# Including Plots
-
-You can also embed plots. See Figure <a href="#fig:pie">1</a> for example:
-
-
-```r
-par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
-  col = c('#0292D8', '#F7EA39', '#C4B632'),
-  init.angle = -50, border = NA
-)
-```
 
 <div class="figure">
-<img src="{{< blogdown/postref >}}index_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
-<p class="caption"><span id="fig:pie"></span>Figure 1: A fancy pie chart.</p>
+<img src="{{< blogdown/postref >}}index_files/figure-html/photo2.jpg" alt="Asincronie terrestri." width="672" />
+<p class="caption"><span id="fig:"></span>La luna dal Monte S. Primo, 1682 m (Como, ITA)</p>
 </div>
+
+- - -
+
+### **Asincronie terrestri**
+
+Dietro al cielo che ricopre le pareti della tua pelle,
+
+fai spazio alla vasta aria gelida che ti fa alzare la punta del naso.
+
+Eccola, fissa, crescente nel suo volto femminile e schietto. 
+
+Sopra al crinale, di getto, imberbe, la forma nascente 
+
+di un cristallino vedi.
+
+Della luna che si staglia sopra all'immenso
+
+odi solo il silenzio e umanamente senti il fiato corto
+
+che fa sperare di rivederla l'indomani.
+
+
+20/01/2024
+
+
+
+- - -
+
+<div class="figure">
+<img src="{{< blogdown/postref >}}index_files/figure-html/photoù.jpg" alt="A fancy dreaming girl" width="672" />
+<p class="caption"><span id="fig:"></span> A fancy dreaming girl in January.</p>
+</div>
+
+- - - 
+
+# USA on the road (December 2023-January 2024)
+
+
+<img src="{{< blogdown/postref >}}index_files/figure-html/USA/first.JPG" alt="Santa Monica, Los Angeles" width="672" />
+<p class="caption"><span id="fig:"></span></p>
+</div>
+
+
+<img src="{{< blogdown/postref >}}index_files/figure-html/USA/second.JPG" alt="Santa Monica, Los Angeles" width="672" />
+<p class="caption"><span id="fig:"></span></p>
+</div>
+
+- - - 
+
+## California
+
+- - <img src="{{< blogdown/postref >}}index_files/figure-html/USA/SantaMonica.JPG" alt="Santa Monica, Los Angeles" width="672" />
+<p class="caption"><span id="fig:"></span>Sunrise in Santa Monica, Los Angeles</p>
+</div>
+
+
+- - <img src="{{< blogdown/postref >}}index_files/figure-html/USA/LA1.JPG" alt="Holliwood, Los Angeles" width="672" />
+<p class="caption"><span id="fig:"></span>Holliwood, Los Angeles</p>
+</div>
+
+
+- - <img src="{{< blogdown/postref >}}index_files/figure-html/USA/LA2.JPG" alt="Los Angeles" width="672" />
+<p class="caption"><span id="fig:"></span>Los Angeles from Griffith's Observatory</p>
+</div>
+
+- - <img src="{{< blogdown/postref >}}index_files/figure-html/USA/DeathValley.JPG" alt="Santa Monica, Los Angeles" width="672" />
+<p class="caption"><span id="fig:"></span>Death Valley</p>
+</div>
+
+
+- - <img src="{{< blogdown/postref >}}index_files/figure-html/USA/Badwater3.JPG" alt="Badwater " width="672" />
+<p class="caption"><span id="fig:"></span>Badwater</p>
+</div>
+
+- - <img src="{{< blogdown/postref >}}index_files/figure-html/USA/SantaMonicaSunset.JPG" alt="Santa Monica, Los Angeles" width="672" />
+<p class="caption"><span id="fig:"></span>Sunset in Santa Monica</p>
+</div>
+
+
+- - - 
+
+## Utah
+
+- - <img src="{{< blogdown/postref >}}index_files/figure-html/USA/UTAH.JPG" alt="Utah" width="672" />
+<p class="caption"><span id="fig:"></span></p>
+</div>
+
+
+- - <img src="{{< blogdown/postref >}}index_files/figure-html/USA/Monument2.JPG" alt="Monument Valley" width="672" />
+<p class="caption"><span id="fig:"></span>Monument Valley</p>
+</div>
+
+- - <img src="{{< blogdown/postref >}}index_files/figure-html/USA/Monument1.JPG" alt="Monument Valley" width="672" />
+<p class="caption"><span id="fig:"></span>Monument Valley</p>
+</div>
+
+- - - 
+
+## Arizona 
+
+- -  <img src="{{< blogdown/postref >}}index_files/figure-html/USA/GranCanyon2.JPG" alt="GC" width="672" />
+<p class="caption"><span id="fig:"></span>Gran Canyon</p>
+</div>
+
+
+
+- - -
+
+### Colorado river
+
+Dal cielo d’ inverno ho visto amici nell’ ombra ad aspettarmi 
+
+a guardare le stelle. Siamo scesi e ci siamo abbracciati, 
+
+come il Colorado avvolge gli Stati Uniti d’ America in un sinuoso e caloroso corso 
+
+che chiama al significato della vita: continuo e lento cambiamento di luci e ombre.
+
+
+
+- - -
+
+- - <img src="{{< blogdown/postref >}}index_files/figure-html/USA/GranCanyon.JPG" alt="GC" width="672" />
+<p class="caption"><span id="fig:"></span>Gran Canyon</p>
+</div>
+
+
+- - - 
+
+## Route 66
+
+- - <img src="{{< blogdown/postref >}}index_files/figure-html/USA/route66.jpg" alt="66" width="672" />
+<p class="caption"><span id="fig:"></span></p>
+</div>
+
+
+## Nowhere but amazing sky
+
+
+- - <img src="{{< blogdown/postref >}}index_files/figure-html/USA/sky.jpg" alt="1" width="672" />
+<p class="caption"><span id="fig:"></span></p>
+</div>
+
+
+
+- - <img src="{{< blogdown/postref >}}index_files/figure-html/USA/sky3.jpg" alt="1" width="672" />
+<p class="caption"><span id="fig:"></span></p>
+</div>
+
+
+
+
+## One night in Vegas (Nevada)
+
+
+- - <img src="{{< blogdown/postref >}}index_files/figure-html/USA/lv3.jpg" alt="1" width="672" />
+<p class="caption"><span id="fig:"></span></p>
+</div>
+
+
+- - <img src="{{< blogdown/postref >}}index_files/figure-html/USA/lv2.jpg" alt="1" width="672" />
+<p class="caption"><span id="fig:"></span></p>
+</div>
+
+- - <img src="{{< blogdown/postref >}}index_files/figure-html/USA/lv1.jpg" alt="1" width="672" />
+<p class="caption"><span id="fig:"></span></p>
+</div>
+
+
+
+
+
+
+

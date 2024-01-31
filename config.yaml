@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: https://giulnicole.github.io/
 languageCode: en-US
 title: A Hugo website
 theme: hugo-lithium
@@ -14,10 +14,12 @@ menu:
   main:
     - name: About
       url: /about/
-    - name: GitHub
-      url: https://github.com/rstudio/blogdown
-    - name: Twitter
-      url: https://twitter.com/rstudio
+    - name: Software
+      url: https://github.com/giulnicole/EpiData
+    - name: Teaching
+      url: /Teaching/
+    - name: Publications
+      url: /Publications/
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
@@ -32,7 +34,7 @@ params:
   logo:
     alt: Logo
     height: 50
-    url: logo.png
+    url: /index_files/figure-html/giulia.JPG
     width: 50
 markup:
   defaultMarkdownHandler: goldmark
