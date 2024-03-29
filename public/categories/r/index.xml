@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on A Hugo website</title>
+    <link>https://giulnicole.github.io/categories/r/</link>
+    <description>Recent content in R on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 21 Jan 2024 21:13:14 -0500</lastBuildDate><atom:link href="https://giulnicole.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AboutMe</title>
+      <link>https://giulnicole.github.io/2024/01/21/aboutme/</link>
+      <pubDate>Sun, 21 Jan 2024 21:13:14 -0500</pubDate>
+      
+      <guid>https://giulnicole.github.io/2024/01/21/aboutme/</guid>
+      <description>PhD student: Data science in Biomedicine
+Field of research: quantitative genetics and genomics.
+Main interests: imputation of missing data; filter methods for variable selection (e.g., knockoff); methods to study epigenetic data and validation pipelines.
+Skills: programming for statistical analysis in R, packages development.
+Academic formation
+Enrolled in Data science in Biomedicine PhD programme (2021).
+Master&amp;rsquo;s degree in Biostatistics (University of Milano Bicocca, 2019-2021).
+Bachelor&amp;rsquo;s Degree in Life Sciences (University of Pavia, 2016-2019).</description>
+    </item>
+    
+    <item>
+      <title>New releases</title>
+      <link>https://giulnicole.github.io/2024/01/21/new-releases/</link>
+      <pubDate>Sun, 21 Jan 2024 21:13:14 -0500</pubDate>
+      
+      <guid>https://giulnicole.github.io/2024/01/21/new-releases/</guid>
+      <description>What&amp;rsquo;s new in January 2024? This highlight contains a new poem and pictures from the last trip in USA.
+La luna dal Monte S. Primo, 1682 m (Como, ITA)
+Asincronie terrestri Dietro al cielo che ricopre le pareti della tua pelle,
+fai spazio alla vasta aria gelida che ti fa alzare la punta del naso.
+Eccola, fissa, crescente nel suo volto femminile e schietto.
+Sopra al crinale, di getto, imberbe, la forma nascente</description>
+    </item>
+    
+  </channel>
+</rss>

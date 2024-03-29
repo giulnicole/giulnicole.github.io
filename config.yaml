@@ -1,6 +1,6 @@
 baseurl: https://giulnicole.github.io/
 languageCode: en-US
-title: A Hugo website
+title: Personal website
 theme: hugo-lithium
 googleAnalytics: ''
 disqusShortname: ''
@@ -12,10 +12,10 @@ permalinks:
   post: /:year/:month/:day/:slug/
 menu:
   main:
-    - name: About
+    - name: Contacts
       url: /about/
-    - name: Software
-      url: https://github.com/giulnicole/EpiData
+    - name: GitHub
+      url: https://github.com/giulnicole/RVerse
     - name: Teaching
       url: /Teaching/
     - name: Publications
@@ -32,10 +32,10 @@ params:
   highlightjsTheme: github
   highlightjsVersion: 9.12.0
   logo:
-    alt: Logo
-    height: 50
-    url: /index_files/figure-html/giulia.JPG
-    width: 50
+    alt: logo
+    height: 60
+    url: GNB.png
+    width: 60
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:

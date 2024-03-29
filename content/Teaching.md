@@ -5,16 +5,22 @@ title: Teaching
 
 # 2023
 
-- **Second level master's lectures**: GWAS, multiple tests, Imputation in GWAS, Eigenstrat (Statistical genetics course), Second level Master in Genomic Data Science University of Pavia) [https://www.glabstat.com/statistica-genetica-2022]()
+**Lectures**
 
-- **Assistant to didactics**: statistics and informatics applied to medical research (Medicine, Surgery and Dentistry, University of Pavia) [https://elearning.unipv.it/course/view.php?id=3791]()
+- GWAS, multiple tests, Imputation in GWAS, Eigenstrat (Statistical genetics course), Second level Master in Genomic Data Science University of Pavia) [https://www.glabstat.com/statistica-genetica-2022]()
+
+**Assistant to didactics**
+
+- Statistics and informatics applied to medical research (Medicine, Surgery and Dentistry, University of Pavia)
 
 
 # 2022
 
-- **Second level master's lectures**: imputation in GWAS (Statistical genetics course, Master in Genomic Data Science, University of Pavia)
+**Lectures**
 
-- **Assistant to didactics**:
+- Imputation in GWAS (Statistical genetics course, Master in Genomic Data Science, University of Pavia)
+
+**Assistant to didactics**
 
  - Statistics and informatics applied to medical research (Medicine, Surgery and Dentistry, University of Pavia)
 
