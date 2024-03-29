@@ -2,37 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A Hugo website</title>
-    <link>/</link>
+    <link>https://giulnicole.github.io/</link>
     <description>Recent content on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Jan 2024 21:48:51 -0700</lastBuildDate><atom:link href="https://giulnicole.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A Plain Markdown Post</title>
-      <link>/2016/12/30/a-plain-markdown-post/</link>
-      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
+      <title>Contacts</title>
+      <link>https://giulnicole.github.io/2024/01/21/contacts/</link>
+      <pubDate>Sun, 21 Jan 2024 21:48:51 -0700</pubDate>
       
-      <guid>/2016/12/30/a-plain-markdown-post/</guid>
-      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
-You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc. There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
+      <guid>https://giulnicole.github.io/2024/01/21/contacts/</guid>
+      <description>Contacts and social accounts:
+e-mail: gn.baldrighi@gmail.com
+Github: giulnicole
+Twitter/X: @giulia_nicoleb
+Linkedin: linkedin.com/in/giulia-nicole-baldrighi-396758179</description>
+    </item>
+    
+    <item>
+      <title>Logo</title>
+      <link>https://giulnicole.github.io/logo/</link>
+      <pubDate>Sun, 21 Jan 2024 21:48:51 -0700</pubDate>
+      
+      <guid>https://giulnicole.github.io/logo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Packages</title>
+      <link>https://giulnicole.github.io/packages/</link>
+      <pubDate>Sun, 21 Jan 2024 21:48:51 -0700</pubDate>
+      
+      <guid>https://giulnicole.github.io/packages/</guid>
+      <description>hbshbchbchbchbhchcb</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      <link>https://giulnicole.github.io/about/</link>
+      <pubDate>Sun, 21 Jan 2024 21:13:14 -0500</pubDate>
       
-      <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+      <guid>https://giulnicole.github.io/about/</guid>
+      <description>2024- actual works A knockoff filter selection study of SNPs associated with Multiple Sclerosis in a dense fine-mapped region of chromosome 17
+Trend of homozygosity for recessive diseases (IRD and NMD) according to the year and the place of birth in Italian patients
+2023 Imputation Methods for bisulphite data (ongoing)
+Epigenetics in Multiple Sclerosis: a multi-level analysis combining DNA methylation pattern, age acceleration and epigenetic drift</description>
     </item>
     
     <item>
-      <title>Lorem Ipsum</title>
-      <link>/2015/01/01/lorem-ipsum/</link>
-      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
+      <title>AboutMe</title>
+      <link>https://giulnicole.github.io/2024/01/21/aboutme/</link>
+      <pubDate>Sun, 21 Jan 2024 21:13:14 -0500</pubDate>
       
-      <guid>/2015/01/01/lorem-ipsum/</guid>
+      <guid>https://giulnicole.github.io/2024/01/21/aboutme/</guid>
+      <description>PhD student: Data science in Biomedicine
+Field of research: quantitative genetics and genomics.
+Main interests: imputation of missing data; filter methods for variable selection (e.g., knockoff); methods to study epigenetic data and validation pipelines.
+Skills: programming for statistical analysis in R, packages development.
+Academic formation
+Enrolled in Data science in Biomedicine PhD programme (2021).
+Master&amp;rsquo;s degree in Biostatistics (University of Milano Bicocca, 2019-2021).
+Bachelor&amp;rsquo;s Degree in Life Sciences (University of Pavia, 2016-2019).</description>
+    </item>
+    
+    <item>
+      <title>New releases</title>
+      <link>https://giulnicole.github.io/2024/01/21/new-releases/</link>
+      <pubDate>Sun, 21 Jan 2024 21:13:14 -0500</pubDate>
+      
+      <guid>https://giulnicole.github.io/2024/01/21/new-releases/</guid>
+      <description>What&amp;rsquo;s new in January 2024? This highlight contains a new poem and pictures from the last trip in USA.
+La luna dal Monte S. Primo, 1682 m (Como, ITA)
+Asincronie terrestri Dietro al cielo che ricopre le pareti della tua pelle,
+fai spazio alla vasta aria gelida che ti fa alzare la punta del naso.
+Eccola, fissa, crescente nel suo volto femminile e schietto.
+Sopra al crinale, di getto, imberbe, la forma nascente</description>
+    </item>
+    
+    <item>
+      <title>Scientific activity</title>
+      <link>https://giulnicole.github.io/2024/01/15/scientific-activity/</link>
+      <pubDate>Mon, 15 Jan 2024 21:49:57 -0700</pubDate>
+      
+      <guid>https://giulnicole.github.io/2024/01/15/scientific-activity/</guid>
+      <description>2024- actual workss A knockoff filter selection study of SNPs associated with Multiple Sclerosis in a dense fine-mapped region of chromosome 17
+Trend of homozygosity for recessive diseases (IRD and NMD) according to the year and the place of birth in Italian patients
+Imputation Methods for bisulphite sequencing data considering covariance in CpGs&amp;rsquo;s similarity pattern
+2023 Epigenetics in Multiple Sclerosis: a multi-level analysis combining DNA methylation pattern, age acceleration and epigenetic drift (ongoing) </description>
+    </item>
+    
+    <item>
+      <title>Miscellanea collection</title>
+      <link>https://giulnicole.github.io/2024/01/01/miscellanea-collection/</link>
+      <pubDate>Mon, 01 Jan 2024 13:09:13 -0600</pubDate>
+      
+      <guid>https://giulnicole.github.io/2024/01/01/miscellanea-collection/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Trips</title>
+      <link>https://giulnicole.github.io/2024/01/01/trips/</link>
+      <pubDate>Mon, 01 Jan 2024 13:09:13 -0600</pubDate>
+      
+      <guid>https://giulnicole.github.io/2024/01/01/trips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://giulnicole.github.io/publications/</link>
+      <pubDate>Fri, 01 Dec 2023 21:49:57 -0700</pubDate>
+      
+      <guid>https://giulnicole.github.io/publications/</guid>
+      <description>2023 Fazia T, Baldrighi GN, Nova A, Bernardinelli L. A systematic review of Mendelian randomization studies on multiple sclerosis. Eur J Neurosci. 2023 Aug;58(4):3172-3194. doi: https://doi.org/10.1111/ejn.16088. Epub 2023 Jul 18. PMID: 37463755. 2022 Baldrighi GN, Nova A, Bernardinelli L, Fazia T. A Pipeline for Phasing and Genotype Imputation on Mixed Human Data (Parents-Offspring Trios and Unrelated Subjects) by Reviewing Current Methods and Software. Life (Basel). 2022 Dec 5;12(12):2030. doi: 10.3390/life12122030. PMID: 36556394; PMCID: PMC9781110.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://giulnicole.github.io/teaching/</link>
+      <pubDate>Fri, 01 Dec 2023 21:49:57 -0700</pubDate>
+      
+      <guid>https://giulnicole.github.io/teaching/</guid>
+      <description>2023 Second level master&amp;rsquo;s lectures: GWAS, multiple tests, Imputation in GWAS, Eigenstrat (Statistical genetics course), Second level Master in Genomic Data Science University of Pavia) https://www.glabstat.com/statistica-genetica-2022
+Assistant to didactics: statistics and informatics applied to medical research (Medicine, Surgery and Dentistry, University of Pavia) https://elearning.unipv.it/course/view.php?id=3791
+2022 Second level master&amp;rsquo;s lectures: imputation in GWAS (Statistical genetics course, Master in Genomic Data Science, University of Pavia)
+Assistant to didactics:
+Statistics and informatics applied to medical research (Medicine, Surgery and Dentistry, University of Pavia)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://giulnicole.github.io/scientific-activity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://giulnicole.github.io/scientific-activity/</guid>
+      <description></description>
     </item>
     
   </channel>
