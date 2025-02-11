@@ -6,63 +6,42 @@ categories: ["R"]
 tags: ["R Markdown"]
 ---
 
-**PhD student**: Data science in Biomedicine
+## Education
 
+- Bachelor Degree: Life Sciences. *University of Pavia (2016-2019)*
 
-**Field of research**: quantitative genetics and genomics.
+- Mater Degree: Biostatistics. *University of Milano- Bicocca (2019-2021)*
 
+- PhD: Psychology, Neuroscience and Data Science (curriculum Data Science in Biomedicine). *University of Pavia (2021-2024)*
 
-**Main interests**: imputation of missing data; filter methods for variable selection (e.g., knockoff); methods to study epigenetic data and validation pipelines. 
+- Advanced formation: Medical Statistics Resident *(from 2024)*
 
+## Experiences
 
-**Skills**: programming for statistical analysis in R, packages development.
+- Researcher at Bioinformatics Unit. *Istituto Auxologico Italiano, Cusano Milanino (MI) (September-December 2024)*
 
+- PostDoc researcher at Neuroimaging lab. *University of Turku (from February 2025).*
 
+## Abroad experiences during the PhD
 
-<div class="figure">
-<img title="a title" alt="Alt text" src="/index_files/figure-html/giulia.JPG">
-<div class="figure">
+- Visiting student at Biostatistics section at Copenahagen University (2022)
 
+![Alt text](/index_files/figure-html/biostat.jpg "a title")
 
+- Erasmus Trineeship PhD student at Centre for Basic and Metabolic Research (CBMR) Copenahagen University (2023)
 
+![Alt text](/index_files/figure-html/cbmr.jpg "a title")
 
-- - - 
+## Field of research
 
-**Academic formation**
+Quantitative genetics, integrative genomics genomics, epigenetics, neuroimaging data analysis
 
-Enrolled in Data science in Biomedicine PhD programme (2021). 
+## Skills
 
-Master's degree in Biostatistics (University of Milano Bicocca, 2019-2021). 
+Programming for statistical analysis in R, packages development.
 
-Bachelor's Degree in Life Sciences (University of Pavia, 2016-2019).  
+## Languages
 
+- Spoken languages: Italian, English, Spanish
 
-- - - 
-
-
-**Abroad experiences during the Phd**:
-
--- Visiting student at Biostatistics section at Copenahagen University (4 months in 2022).
-
-<div class="figure">
-<img title="a title" alt="Alt text" src="/index_files/figure-html/biostat.jpg">
-<div class="figure">
-
-
--- Traineeship student at Novonordisk Center for Basic and Metabolic Research (CBMR) at Copenhagen University during (6 months in 2023).
-
-
-<div class="figure">
-<img title="a title" alt="Alt text" src="/index_files/figure-html/cbmr.jpg">
-<div class="figure">
-
-- - -
-
-
-**Spoken languages**: Italian, English, Spanish
-
-**Some knowledge about**: Danish, German (A1)
-
-
-
-
+- Elementary level: Danish, German

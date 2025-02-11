@@ -7,17 +7,17 @@ title: Ongoing scientific activity
 
 # 2024
 
-- Unveiling multiple sclerosis-associated SNPs close by ASIC2: a fine-mapping exploration using the Knockoff method on Sardinian trios with prioritization and description of their biological impact
+- Statistical models applied to genetics: epigenome wide association study investigating Andes high altitude exposition on cardiovascular disease risk (HIGHCARE-LAPS study)
 
-- Trend of homozygosity for recessive diseases (IRD and NMD) according to the year and the place of birth in Italian patients
-
-
-
-- - - 
-# 2023
-
-- Enhancing reliability in DNA methylation analysis with a novel approach for imputing missing data from bisulfite sequencing experiments (ONGOING)
+- A retrospective study on allelic distribution for recessive diseases in an Italian cohort
 
 
+- Methods for reconstruction of genotypes in TRIO setting: Knockoff filter method for genetic variants' selection
 
-- Understanding the complexities of multiple sclerosis: a study involving meta-analysis of DNA methylation differences, epigenetic drift and rare epivariations 
+
+- Exploring the complexities of epigenetics in multiple sclerosis: a study involving meta-analysis of DNA methylation profiles, epigenetic drift and rare epivariations 
+
+
+- Exploring DNA methylation patterns in adult men exposed in utero to Dioxin
+
+
