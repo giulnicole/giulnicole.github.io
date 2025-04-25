@@ -15,7 +15,7 @@ Genotype imputation and software
 
 - Advanced biomedical statistics (MEET course, School of Medicine, University of Pavia)
 
-## 2023-2024
+## 2023-2025
 
 ### Lecturer (2nd level Master in Genomic data science)
 

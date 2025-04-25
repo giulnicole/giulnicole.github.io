@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R Markdown on A Hugo website</title>
+    <title>R Markdown on Personal website</title>
     <link>https://giulnicole.github.io/tags/r-markdown/</link>
-    <description>Recent content in R Markdown on A Hugo website</description>
+    <description>Recent content in R Markdown on Personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 21 Jan 2024 21:13:14 -0500</lastBuildDate><atom:link href="https://giulnicole.github.io/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Apr 2025 21:13:14 -0500</lastBuildDate><atom:link href="https://giulnicole.github.io/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AboutMe</title>
-      <link>https://giulnicole.github.io/2024/01/21/aboutme/</link>
-      <pubDate>Sun, 21 Jan 2024 21:13:14 -0500</pubDate>
+      <link>https://giulnicole.github.io/2025/04/21/aboutme/</link>
+      <pubDate>Mon, 21 Apr 2025 21:13:14 -0500</pubDate>
       
-      <guid>https://giulnicole.github.io/2024/01/21/aboutme/</guid>
-      <description>PhD student: Data science in Biomedicine
-Field of research: quantitative genetics and genomics.
-Main interests: imputation of missing data; filter methods for variable selection (e.g., knockoff); methods to study epigenetic data and validation pipelines.
-Skills: programming for statistical analysis in R, packages development.
-Academic formation
-Enrolled in Data science in Biomedicine PhD programme (2021).
-Master&amp;rsquo;s degree in Biostatistics (University of Milano Bicocca, 2019-2021).
-Bachelor&amp;rsquo;s Degree in Life Sciences (University of Pavia, 2016-2019).</description>
+      <guid>https://giulnicole.github.io/2025/04/21/aboutme/</guid>
+      <description>Researcher postdoc Neuroimaging lab: Clinical Neurosciences Unit (Airas´ s group)
+Turku PET Centre, University of Turku
+Academic education Bachelor Degree: Life Sciences. University of Pavia (2016-2019)
+Mater Degree: Biostatistics. University of Milano- Bicocca (2019-2021)
+PhD: Psychology, Neuroscience and Data Science (curriculum Data Science in Biomedicine). University of Pavia (2021-2024)
+Advanced formation: Medical Statistics Resident (from 2024)
+Experiences Researcher at Bioinformatics Unit. Istituto Auxologico Italiano, Cusano Milanino (MI) (September-December 2024)
+PostDoc researcher at Neuroimaging lab.</description>
     </item>
     
     <item>

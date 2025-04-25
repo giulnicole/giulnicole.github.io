@@ -1,12 +1,19 @@
 ---
 title: "AboutMe"
 author: "Giulia Nicole Baldrighi"
-date: 2024-01-21T21:13:14-05:00
+date: 2025-04-21T21:13:14-05:00
 categories: ["R"]
 tags: ["R Markdown"]
 ---
 
-## Education
+
+### Researcher postdoc 
+**Neuroimaging lab**: Clinical Neurosciences Unit (Airas´ s group) 
+
+Turku PET Centre, University of Turku
+
+
+## Academic education
 
 - Bachelor Degree: Life Sciences. *University of Pavia (2016-2019)*
 
