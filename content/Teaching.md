@@ -5,11 +5,14 @@ title: Teaching
 
 ## 2022
 
-### Lecturer (2nd level Master in Genomic Data Science)
+### Lecturer, Master in Genomic Data Science, University of Pavia
 
-Genotype imputation and software
 
-### Academic tutor
+- - Shell introduction
+
+- - Genotype imputation and software
+
+### Academic tutor, University of Pavia
 
 - Statistics and informatics applied to medical research (Medicine, Surgery and Dentistry, University of Pavia)
 
@@ -17,12 +20,24 @@ Genotype imputation and software
 
 ## 2023-2025
 
-### Lecturer (2nd level Master in Genomic data science)
+### Lecturer, Master in Genomic Data Science, University of Pavia
 
-GWAS, multiple testing, genotype imputation
+- - GWAS, multiple testing 
 
-### Assistant to didactics
+- - Genotype imputation and software
 
-- Statistics and informatics applied to medical research (Medicine, Surgery and Dentistry, University of Pavia)
 
-- Environmental statistics (Biology and Biotechnology Department, University of Pavia)
+### Assistant to didactics, University of Pavia
+
+- Statistics and informatics applied to medical research (Medicine, Surgery and Dentistry)
+
+- Environmental statistics (Biology and Biotechnology Department, DBS)
+
+
+## 2024-2026
+
+### Contract lecturer, Collegio Ghislieri, University of Pavia
+
+- Basic statistics in R
+
+- Advanced statsicsis in medicine

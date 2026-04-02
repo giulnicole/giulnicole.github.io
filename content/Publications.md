@@ -4,11 +4,11 @@ title: Publications
 ---
 ## 2022
 
-- Baldrighi GN, Nova A, Bernardinelli L, Fazia T. A Pipeline for Phasing and Genotype Imputation on Mixed Human Data (Parents-Offspring Trios and Unrelated Subjects) by Reviewing Current Methods and Software. Life (Basel). 2022 Dec 5;12(12):2030. doi: 10.3390/life12122030. PMID: 36556394; PMCID: PMC9781110.
-
 - Valenzuela PL, Mateo-March M, Muriel X, Zabala M, Lucia A, Barranco-Gil D, Millet GP, Brocherie F, Burtscher J, Burtscher M, Ryan BJ, Gioscia-Ryan RA, Perrey S, Rodrigo-Carranza V, González-Mohíno F, González-Ravé JM, Santos-Concejero J, Denadai BS, Greco CC, Casado A, Foster C, Mazzolari R, Baldrighi GN, et al.; Commentaries on Viewpoint: Using V̇o2max as a marker of training status in athletes - can we do better? J Appl Physiol (1985). 2022 Jul 1;133(1):148-164. doi: 10.1152/japplphysiol.00224.2022. PMID: 35819399.
 
 - Nova A, Baldrighi GN, Fazia T, Graziano F, Saddi V, Piras M, Beecham A, McCauley JL, Bernardinelli L. Heritability Estimation of Multiple Sclerosis Related Plasma Protein Levels in Sardinian Families with Immunochip Genotyping Data. Life (Basel). 2022 Jul 21;12(7):1101. doi: 10.3390/life12071101. PMID: 35888189; PMCID: PMC9317284.
+
+- Baldrighi GN, Nova A, Bernardinelli L, Fazia T. A Pipeline for Phasing and Genotype Imputation on Mixed Human Data (Parents-Offspring Trios and Unrelated Subjects) by Reviewing Current Methods and Software. Life (Basel). 2022 Dec 5;12(12):2030. doi: 10.3390/life12122030. PMID: 36556394; PMCID: PMC9781110.
 
 ## 2023
 
@@ -25,3 +25,9 @@ title: Publications
 - Baldrighi GN, Cavagnola R, Calzari L, Sacco D, Costantino L, Ferrara F, Gentilini D. Investigating the Epigenetic Landscape of Major Depressive Disorder: A Genome-Wide Meta-Analysis of DNA Methylation Data, Including New Insights into Stochastic Epigenetic Mutations and Epivariations. Biomedicines. 2024 Sep 25;12(10):2181. doi: 10.3390/biomedicines12102181. PMID: 39457495; PMCID: PMC11505239.
 
 - Baldrighi GN, Cavagnola R, Sacco D, Costantino L, Bernardinelli L, Gentilini D. Exploring the complexities of epigenetics in multiple sclerosis: A study involving meta-analysis of DNA methylation profiles, epigenetic drift, and rare epivariations. Mult Scler J Exp Transl Clin. 2024 Dec 5;10(4):20552173241296726. doi: 10.1177/20552173241296726. PMID: 39651333; PMCID: PMC11622349
+
+## 2025
+
+- Baldrighi GN, Nova A, Ekstrøm CT, Piras ML, Saddi MV, Bernardinelli L, Fazia T. Knockoff-Based Fine Mapping of MS-Associated SNPs in Sardinian Trios. Biochem Genet. 2025 Aug 30. doi: 10.1007/s10528-025-11238-5. Epub ahead of print. PMID: 40884622.
+
+- Sacco D, Brambilla P, Calzari L, Cavagnola R, Baldrighi GN, Costantino L, Ferrara F, Signorini S, Besana S, Siracusa C, Cattaneo K, Leoni V, Mocarelli P, Gentilini D. Dioxin, an endocrine disruptor, induces long term effects on DNA methylation in men after in-utero exposure. Minerva Endocrinol (Torino). 2026 Jan 19. doi: 10.23736/S2724-6507.25.04276-9. Epub ahead of print. PMID: 41553716.

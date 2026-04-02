@@ -7,11 +7,12 @@ tags: ["R Markdown"]
 ---
 
 
-### Researcher postdoc 
-**Neuroimaging lab**: Clinical Neurosciences Unit (Airas´ s group) 
+## Current position 
 
-Turku PET Centre, University of Turku
+### Senior researcher in Clinical Neurosciences
+Turku University Hospital and Turku PET Centre, Turku, Finland
 
+- Airas Grop, Building 14, Kiinamyllynkatu 4-8 20520 Turku, Finland
 
 ## Academic education
 
@@ -23,25 +24,31 @@ Turku PET Centre, University of Turku
 
 - Advanced formation: Medical Statistics Resident *(from 2024)*
 
-## Experiences
+## Previous experiences
 
 - Researcher at Bioinformatics Unit. *Istituto Auxologico Italiano, Cusano Milanino (MI) (September-December 2024)*
 
-- PostDoc researcher at Neuroimaging lab. *University of Turku (from February 2025).*
+- Lecturer University of Pavia
 
 ## Abroad experiences during the PhD
 
-- Visiting student at Biostatistics section at Copenahagen University (2022)
+- Visiting PhD student at Biostatistics section at Copenahagen University (2022)
 
 ![Alt text](/index_files/figure-html/biostat.jpg "a title")
 
-- Erasmus Trineeship PhD student at Centre for Basic and Metabolic Research (CBMR) Copenahagen University (2023)
+- Erasmus Trineeship as PhD student at Centre for Basic and Metabolic Research (CBMR) Copenahagen University (2023)
 
 ![Alt text](/index_files/figure-html/cbmr.jpg "a title")
 
 ## Field of research
 
-Quantitative genetics, integrative genomics genomics, epigenetics, neuroimaging data analysis
+Quantitative genetics, integrative genomics, epigenetics, neuroimaging data analysis (PET, MRI)
+
+## Clinical application
+
+- neurosciences 
+
+- multiple sclerosis 
 
 ## Skills
 
@@ -49,6 +56,6 @@ Programming for statistical analysis in R, packages development.
 
 ## Languages
 
-- Spoken languages: Italian, English, Spanish
+- Currently spoken languages: Italian, English
 
-- Elementary level: Danish, German
+- A1 level: Finnish, German, Spanish

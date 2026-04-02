@@ -11,8 +11,6 @@ title: Web Contacts
 
 - **Github**: [https://github.com/giulnicole](https://github.com/giulnicole)
 
-- **Twitter/X**: [@giulia_nicoleb]()
-
 - **Linkedin**: [Giulia Nicole Baldrighi]()
 
 
